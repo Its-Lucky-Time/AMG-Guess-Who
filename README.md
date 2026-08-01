@@ -11,7 +11,7 @@
 
 This is the repo for a Guess Who game for sets of Undertale and Deltarune characters, based on the original concept by Seek's Stuff: https://seeksstuff.itch.io/deltarune-guess-who.
 
-This rewrites the original game to function as a web app, for better cross-platform compatibility, sets it up to be easily moddable to add characters or whole new sets of characters, and adds a few other features.
+This rewrites the original game to function as a web app, for better cross-platform compatibility, sets it up to be easily moddable to add characters or whole new sets of characters, and adds a few other features. Hello Neighbor
 
 This is a fan game of a fan game, and isn't officially associated with Toby Fox and team or Seek's Stuff. Undertale and Deltarune characters are used under the broad permission Toby Fox has granted for non-commercial fangames.
 
