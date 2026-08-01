@@ -1,4 +1,4 @@
-# UTDR Guess Who Unlimited
+# AMG Guess Who Unlimited
 
 ## Quick Start
 
